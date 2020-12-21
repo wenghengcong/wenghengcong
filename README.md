@@ -1,22 +1,13 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![status](https://img.shields.io/badge/status-working-brightgreen) ![](https://img.shields.io/static/v1?label=wechat&message=wenghengcong&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/wenghengcong)
+![status](https://img.shields.io/badge/status-working-red) ![](https://img.shields.io/static/v1?label=wechat&message=wenghengcong&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/wenghengcong)
 
 
 
  #### 📫 How to reach me:   
-  [<img src="https://wenghengcong.com/images/large240.png" width="3.5%"/>](https://wenghengcong.com/)
-  [<img src="https://tvax2.sinaimg.cn/large/005SiNxyly8g1nzah4zlbj30dc0dcdfz.jpg" width="3.5%"/>](https://juejin.cn/user/1926000099473111)
-  <a href="mailto:wenghengcong@icloud.com"> <img src="https://pbs.twimg.com/profile_images/942813312210759680/FN6xvioX_400x400.jpg" width="3.5%"/> </a>
+  <code>[<img src="https://wenghengcong.com/images/large240.png" width="3.5%"/>](https://wenghengcong.com/) </code>
+  <code>[<img src="https://tvax2.sinaimg.cn/large/005SiNxyly8g1nzah4zlbj30dc0dcdfz.jpg" width="3.5%"/>](https://juejin.cn/user/1926000099473111) </code>
+  <code> <a href="mailto:wenghengcong@icloud.com"> <img src="https://pbs.twimg.com/profile_images/942813312210759680/FN6xvioX_400x400.jpg" width="3.5%"/> </a> </code>
 
 
 
