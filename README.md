@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-working-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/wenghengcong)
 
-Hi, I'm ![wenghengcong](https://wenghengcong.com), a iOS developer 👨🏻‍💻 from China.
+Hi, I'm [wenghengcong](https://wenghengcong.com), a iOS developer 👨🏻‍💻 from China.
 
 
  ## 📫 How to reach me:   
