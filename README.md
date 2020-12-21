@@ -4,7 +4,7 @@
 
 
 
- #### 📫 How to reach me:   
+ ## 📫 How to reach me:   
   <code>[<img src="https://wenghengcong.com/images/large240.png" width="3.5%"/>](https://wenghengcong.com/) </code>
   <code>[<img src="https://tvax2.sinaimg.cn/large/005SiNxyly8g1nzah4zlbj30dc0dcdfz.jpg" width="3.5%"/>](https://juejin.cn/user/1926000099473111) </code>
   <code>[<img src="https://tvax2.sinaimg.cn/crop.0.0.178.178.180/61ecce97ly8gdi76ihgcwj204y04ygli.jp" width="3.5%"/>](https://weibo.com/wenghengcong) </code>
@@ -12,7 +12,7 @@
 
 
 
-#### 👨🏻‍💻 Languages and Tools <br />
+## 👨🏻‍💻 Languages and Tools <br />
 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
