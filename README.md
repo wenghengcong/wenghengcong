@@ -16,7 +16,7 @@
  #### 📫 How to reach me:   
   [<img src="https://wenghengcong.com/images/large240.png" width="3.5%"/>](https://wenghengcong.com/)
   [<img src="https://tvax2.sinaimg.cn/large/005SiNxyly8g1nzah4zlbj30dc0dcdfz.jpg" width="3.5%"/>](https://juejin.cn/user/1926000099473111)
-  <a href="mailto:wenghengcong@icloud.com"> <img src="https://de.wikipedia.org/wiki/ICloud#/media/Datei:ICloud_Logo_2013.png" width="3.5%"/> </a>
+  <a href="mailto:wenghengcong@icloud.com"> <img src="https://pbs.twimg.com/profile_images/942813312210759680/FN6xvioX_400x400.jpg" width="3.5%"/> </a>
 
 
 
@@ -24,13 +24,9 @@
 #### 👨🏻‍💻 Languages and Tools <br />
 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
-
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
-
   <code><img height="40" src="https://pbs.twimg.com/profile_images/961052733510893568/wbWiekmv_400x400.jpg"></code>
 
 
