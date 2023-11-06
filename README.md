@@ -2,17 +2,25 @@
 
 ![status](https://img.shields.io/badge/status-working-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/wenghengcong)
 
-Hi, I'm [wenghengcong](https://wenghengcong.com), a iOS developer 👨🏻‍💻 from China.
+Hi, I'm [wenghengcong](https://wenghengcong.com), a iOS/macOS developer 👨🏻‍💻 from China.
+
+Focus on iOS/macOS App development. Love products to make better life!! 
+Technology stack: Swift/Objc.
 
 
- ## 📫 How to reach me:   
+## Here are my product
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/App%20Store.png" width="3.5%"/>](https://wenghengcong.com) </code>
+
+
+## 📫 How to reach me:
+
   <code>[<img src="https://wenghengcong.com/images/large240.png" width="3.5%"/>](https://wenghengcong.com/) </code>
-  <code>[<img src="https://tvax2.sinaimg.cn/large/005SiNxyly8g1nzah4zlbj30dc0dcdfz.jpg" width="3.5%"/>](https://juejin.cn/user/1926000099473111) </code>
-  <code>[<img src="https://tvax2.sinaimg.cn/crop.0.0.178.178.180/61ecce97ly8gdi76ihgcwj204y04ygli.jp" width="3.5%"/>](https://weibo.com/wenghengcong) </code>
-  <code> <a href="mailto:wenghengcong@icloud.com"> <img src="https://pbs.twimg.com/profile_images/942813312210759680/FN6xvioX_400x400.jpg" width="3.5%"/> </a> </code>
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/juejin.jpeg" width="3.5%"/>](https://juejin.cn/user/1926000099473111) </code>
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/logo-black.png?raw=true" width="3.5%"/>](https://twitter.com/wenghengcong) </code>
+  <code> <a href="mailto:wenghengcong@icloud.com"> <img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/icloud-email.png" width="3.5%"/> </a> </code>
 <br />
 <br />
- 
+
 
 ## 👨🏻‍💻 Languages and Tools <br />
 
