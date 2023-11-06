@@ -3,17 +3,21 @@
 ![status](https://img.shields.io/badge/status-working-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/wenghengcong)
 
 Hi, I'm [wenghengcong](https://wenghengcong.com), a iOS/macOS developer 👨🏻‍💻 from China.
+嗨，我是一个来自中国的iOS/macOS开发者。
 
 Focus on iOS/macOS App development. Love products to make better life!! 
 Technology stack: Swift/Objc.
+专注于iOS/macOS系统App开发。热爱产品，创造美好！
+技术栈：Swift/Objc。
 
 
 ## Here are my product
+我的产品
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/App%20Store.png" width="3.5%"/>](https://wenghengcong.com) </code>
-
+  
 
 ## 📫 How to reach me:
-
+您可以通过下面方式联系我。
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/logo_512.png" width="3.5%"/>](https://wenghengcong.com/) </code>
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/juejin.jpeg" width="3.5%"/>](https://juejin.cn/user/1926000099473111) </code>
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/twitter.png" width="3.5%"/>](https://twitter.com/wenghengcong) </code>
@@ -23,7 +27,7 @@ Technology stack: Swift/Objc.
 
 
 ## 👨🏻‍💻 Languages and Tools <br />
-
+技能与工具
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
