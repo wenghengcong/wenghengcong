@@ -16,7 +16,7 @@ Technology stack: Swift/Objc.
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/App%20Store.png" height="25"/>](https://wenghengcong.com) </code>
 <br />
 <br />
-
+<br />
 
 ## 📫 How to reach me:
 您可以通过下面方式联系我。
@@ -26,9 +26,9 @@ Technology stack: Swift/Objc.
     <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/icloud-email.png" height="25"/>](mailto:wenghengcong@icloud.com) </code>
 <br />
 <br />
+<br />
 
-
-## 👨🏻‍💻 Languages and Tools <br />
+## 👨🏻‍💻 Languages and Tools
 技能与工具
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
