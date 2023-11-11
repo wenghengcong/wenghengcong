@@ -13,7 +13,7 @@ Technology stack: Swift/Objc.
 
 ## Here are my product
 我的产品
-  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/App%20Store.png" width="3.5%"/>](https://wenghengcong.com) </code>
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/App%20Store.png" height="25"/>](https://wenghengcong.com) </code>
 <br />
 <br />
 <br />
@@ -22,10 +22,10 @@ Technology stack: Swift/Objc.
 
 ## 📫 How to reach me:
 您可以通过下面方式联系我。
-  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/logo_512.png" width="3%"/>](https://wenghengcong.com/) </code>
-  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/juejin.jpeg" width="3%"/>](https://juejin.cn/user/1926000099473111) </code>
-  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/twitter.png" width="3%"/>](https://twitter.com/wenghengcong) </code>
-    <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/icloud-email.png" width="3%"/>](mailto:wenghengcong@icloud.com) </code>
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/logo_512.png" height="25"/>](https://wenghengcong.com/) </code>
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/juejin.jpeg" height="25"/>](https://juejin.cn/user/1926000099473111) </code>
+  <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/twitter.png" height="25"/>](https://twitter.com/wenghengcong) </code>
+    <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/icloud-email.png" height="25"/>](mailto:wenghengcong@icloud.com) </code>
 <br />
 <br />
 <br />
@@ -34,11 +34,11 @@ Technology stack: Swift/Objc.
 
 ## 👨🏻‍💻 Languages and Tools <br />
 技能与工具
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
-  <code><img height="30" src="https://pbs.twimg.com/profile_images/961052733510893568/wbWiekmv_400x400.jpg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
+  <code><img height="25" src="https://pbs.twimg.com/profile_images/961052733510893568/wbWiekmv_400x400.jpg"></code>
  <br />
 <br />
 <br />
