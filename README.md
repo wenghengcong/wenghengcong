@@ -38,6 +38,6 @@ Technology stack: Swift/Objc.
  <br />
 
 <a href="http://www.wenghengcong.com/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=wenghengcong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />         
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenghengcong&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=wenghengcong&show_icons=true&theme=swift" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenghengcong&hide=c%2B%2B,Rich%20Text%20Format" />
 </a>
