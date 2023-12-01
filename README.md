@@ -30,7 +30,7 @@ Technology stack: Swift/Objc.
 
 ## 👨🏻‍💻 Languages and Tools
 技能与工具
-  <code><img height="25" src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/ios.png"></code>
+  <code><img height="25" src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/ios.webp.png"></code>
   <code><img height="25" src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/objc.png?raw=true"></code>
   <code><img height="25" src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/swift_s_radius.png?raw=true"></code>
   <code><img height="25" src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/xcode.png?raw=true"></code>
