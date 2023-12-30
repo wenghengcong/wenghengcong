@@ -23,7 +23,7 @@ Technology stack: Swift/Objc.
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/logo_512.png" height="25"/>](https://wenghengcong.com/) </code>
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/juejin.jpeg" height="25"/>](https://juejin.cn/user/1926000099473111) </code>
   <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/twitter.png" height="25"/>](https://twitter.com/wenghengcong) </code>
-    <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/icloud-email.png" height="25"/>](mailto:wenghengcong@icloud.com) </code>
+    <code>[<img src="https://github.com/wenghengcong/wenghengcong/blob/main/imags/icloud.png" height="25"/>](mailto:wenghengcong@icloud.com) </code>
 <br />
 <br />
 <br />
